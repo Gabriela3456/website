@@ -304,7 +304,7 @@ unsafe {
 ---
 
 # STM32U5's Timers
-11 timers, and 4 low power timers
+11 timers and 4 low power timers
 
 <div grid="~ cols-2 gap-5">
 
@@ -318,10 +318,9 @@ Timers
 - four 32-bit timers
 - three 16-bit timers
 - two advanced control 16-bit timers
-- four low power 16-bit timers
 
 Low Power Timers
-- four 16-bit timers
+- four low power 16-bit timers
 
 </div>
 
